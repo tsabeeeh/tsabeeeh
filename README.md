@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Banner](Untitled design (1).png)
+![Banner](Aa.png)
 
 # Tsabeh Hamed  
 ### Data Analyst | Analytics & Machine Learning
