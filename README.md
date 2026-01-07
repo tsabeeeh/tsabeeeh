@@ -47,11 +47,6 @@ using predictive models to enhance analytical outcomes.
 ---
 
 ## 📂 Featured Work
-- 📈 Sales Performance & KPI Dashboards (Power BI)
-- 🗄️ Customer & Transaction Analysis using SQL Server
-- 🐍 Exploratory Data Analysis with Python
-- 🤖 Machine Learning Projects (Prediction & Classification)
-
 👉 Check my repositories below for detailed projects, datasets, and code.
 
 ---
@@ -65,5 +60,5 @@ using predictive models to enhance analytical outcomes.
 ---
 
 ## 📬 Contact
-- LinkedIn:https://www.linkedin.com/in/tsabeh-hamed-data-analyst
+- LinkedIn :https://www.linkedin.com/in/tsabeh-hamed-data-analyst
 - Email: tsabehamed@gmail.com
