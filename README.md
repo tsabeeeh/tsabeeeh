@@ -207,40 +207,6 @@
 
 <br/>
 
----
-
-## 📊 GitHub Statistics
-
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tsabeeeh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsabeeeh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=tsabeeeh&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=64ffda&fire=ff6e6e&currStreakLabel=64ffda"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsabeeeh&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tsabeeeh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-
-</div>
-
-<br/>
 
 ---
 
