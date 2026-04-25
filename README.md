@@ -26,7 +26,6 @@
 
 </div>
 
-<img align="right" alt="Tsabeh Hamed" width="260" src="https://raw.githubusercontent.com/tsabeeeh/tsabeeeh/main/profile.jpg" style="border-radius:50%; border: 3px solid #64ffda; margin-left: 20px;"/>
 
 ## 👨‍💻 About Me
 
