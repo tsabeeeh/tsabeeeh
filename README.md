@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:0a192f,60:112240,100:1d3461&height=220&section=header&text=Tsabeh%20Hamed&fontSize=58&fontColor=64ffda&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20%7C%20Machine%20Learning&descAlignY=57&descColor=8892b0&fontStyle=bold"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:0a192f,60:112240,100:1d3461&height=220&section=header&text=Tsabeeh%20Hamed&fontSize=58&fontColor=64ffda&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20%7C%20Machine%20Learning&descAlignY=57&descColor=8892b0&fontStyle=bold"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&random=false&width=650&height=40&lines=📊+Turning+Raw+Data+into+Real+Decisions;🔍+Excel+%7C+Power+BI+%7C+SQL+Server+%7C+Python;🤖+Machine+Learning+%26+Deep+Learning;📍+Egypt+—+Remote+%26+Freelance+Ready" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&random=false&width=650&height=40&lines=📊+Turning+Raw+Data+into+Real+Decisions;🔍+Excel+%7C+Power+BI+%7C+SQL+Server+%7C+Python;🏅+Microsoft+Certified%3A+PL-300+%7C+DP-600+%7C+DP-700;🤖+Machine+Learning+%26+Deep+Learning;📍+Egypt+—+Remote+%26+Freelance+Ready" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -153,6 +153,64 @@
 
 ---
 
+## 🎓 Microsoft Certifications
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/">
+    <img src="https://img.shields.io/badge/PL--300-Power_BI_Data_Analyst_Associate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  </a>
+  <br/><br/>
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="110" alt="PL-300 Badge"/>
+  <br/><br/>
+  <b>Microsoft Certified</b><br/>
+  <sub>Power BI Data Analyst Associate</sub><br/><br/>
+  <img src="https://img.shields.io/badge/PL--300-Passed_✓-success?style=flat-square&logo=microsoft"/>
+</td>
+
+<td align="center" width="33%">
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/">
+    <img src="https://img.shields.io/badge/DP--600-Fabric_Analytics_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="110" alt="DP-600 Badge"/>
+  <br/><br/>
+  <b>Microsoft Certified</b><br/>
+  <sub>Fabric Analytics Engineer Associate</sub><br/><br/>
+  <img src="https://img.shields.io/badge/DP--600-Passed_✓-success?style=flat-square&logo=microsoft"/>
+</td>
+
+<td align="center" width="33%">
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/">
+    <img src="https://img.shields.io/badge/DP--700-Fabric_Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="110" alt="DP-700 Badge"/>
+  <br/><br/>
+  <b>Microsoft Certified</b><br/>
+  <sub>Fabric Data Engineer Associate</sub><br/><br/>
+  <img src="https://img.shields.io/badge/DP--700-Passed_✓-success?style=flat-square&logo=microsoft"/>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+> 🏅 *All certifications issued by **Microsoft** — verified via Microsoft Learn*
+
+</div>
+
+<br/>
+
+---
+
 ## 📊 GitHub Statistics
 
 <br/>
@@ -199,6 +257,14 @@ class DataAnalyst:
         self.location    = "Egypt 🇪🇬"
         self.philosophy  = "Why before How — context drives every analysis"
         self.available   = "Remote & Freelance Ready 🌍"
+
+    @property
+    def certifications(self):
+        return [
+            "🏅 PL-300 — Microsoft Power BI Data Analyst Associate",
+            "🏅 DP-600 — Microsoft Fabric Analytics Engineer Associate",
+            "🏅 DP-700 — Microsoft Fabric Data Engineer Associate",
+        ]
 
     @property
     def tech_stack(self):
